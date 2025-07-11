@@ -5,60 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e11d662d-31c3-46fa-bbc0-6d380d562dc5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CrossBrowserTesting_Suite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Grid-Docker.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GroupTesting_Suite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Master_Suite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_AboutUsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_AffiliatePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_BrandsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_CheckoutPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_ContactUsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_DeliveryInformationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_DesktopsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_ForgotPasswordPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_GiftCertificatesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_ItemDetailsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_MyAccountPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_NewsLetterPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_OrderHistoryPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_PrivacyPolicyPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_ProductDetailsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_RegistrationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_ReturnsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_SearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_ShoppingCartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_SiteMapPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_SpecialsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_TabletsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_TermsAndConditionsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_WishListPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testBase/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testScenarios/TS_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testScenarios/TS_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testScenarios/TS_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testScenarios/TS_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testScenarios/TS_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testScenarios/TS_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testScenarios/TS_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/AllureReportManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/DataProviders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ExcelUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ExtentReportManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/data.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/DataDriven.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/Test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report - 2025.07.11.06.08.27.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report - 2025.07.11.06.30.49.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

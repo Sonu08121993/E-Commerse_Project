@@ -1,0 +1,182 @@
+2025-07-11 06:08:39.481 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_04 starting
+2025-07-11 06:08:39.793 [TestNG-tests-3] INFO  testScenarios.TS_02 - Currency option is clickable
+2025-07-11 06:08:41.204 [TestNG-tests-3] INFO  testScenarios.TS_02 - €Euro is visible and clickable
+2025-07-11 06:08:42.818 [TestNG-tests-3] INFO  testScenarios.TS_02 - € is selected and displaying on UI
+2025-07-11 06:08:42.818 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_04 passed
+2025-07-11 06:08:48.592 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_04 starting
+2025-07-11 06:08:48.736 [TestNG-tests-1] INFO  testScenarios.TS_02 - Currency option is clickable
+2025-07-11 06:08:50.567 [TestNG-tests-1] INFO  testScenarios.TS_02 - €Euro is visible and clickable
+2025-07-11 06:08:52.840 [TestNG-tests-1] INFO  testScenarios.TS_02 - € is selected and displaying on UI
+2025-07-11 06:08:52.841 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_04 passed
+2025-07-11 06:08:54.746 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_05 starting
+2025-07-11 06:08:56.312 [TestNG-tests-3] INFO  testScenarios.TS_02 - $Dollar is visible and clickable
+2025-07-11 06:08:57.981 [TestNG-tests-3] INFO  testScenarios.TS_02 - $ is selected and displaying on UI
+2025-07-11 06:08:57.981 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_05 passed
+2025-07-11 06:30:56.425 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_04 starting
+2025-07-11 06:30:56.464 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_04 starting
+2025-07-11 06:30:56.526 [TestNG-tests-3] INFO  testScenarios.TS_02 - Currency option is clickable
+2025-07-11 06:30:56.589 [TestNG-tests-1] INFO  testScenarios.TS_02 - Currency option is clickable
+2025-07-11 06:30:58.416 [TestNG-tests-1] INFO  testScenarios.TS_02 - €Euro is visible and clickable
+2025-07-11 06:30:58.444 [TestNG-tests-3] INFO  testScenarios.TS_02 - €Euro is visible and clickable
+2025-07-11 06:31:00.464 [TestNG-tests-1] INFO  testScenarios.TS_02 - € is selected and displaying on UI
+2025-07-11 06:31:00.466 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_04 passed
+2025-07-11 06:31:00.538 [TestNG-tests-3] INFO  testScenarios.TS_02 - € is selected and displaying on UI
+2025-07-11 06:31:00.538 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_04 passed
+2025-07-11 06:31:06.941 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_05 starting
+2025-07-11 06:31:09.208 [TestNG-tests-1] INFO  testScenarios.TS_02 - $Dollar is visible and clickable
+2025-07-11 06:31:12.164 [TestNG-tests-1] INFO  testScenarios.TS_02 - $ is selected and displaying on UI
+2025-07-11 06:31:12.164 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_05 passed
+2025-07-11 06:31:13.626 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_04 starting
+2025-07-11 06:31:13.826 [TestNG-tests-2] INFO  testScenarios.TS_02 - Currency option is clickable
+2025-07-11 06:31:14.246 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_05 starting
+2025-07-11 06:31:15.749 [TestNG-tests-2] INFO  testScenarios.TS_02 - €Euro is visible and clickable
+2025-07-11 06:31:16.620 [TestNG-tests-3] INFO  testScenarios.TS_02 - $Dollar is visible and clickable
+2025-07-11 06:31:17.727 [TestNG-tests-2] INFO  testScenarios.TS_02 - € is selected and displaying on UI
+2025-07-11 06:31:17.727 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_04 passed
+2025-07-11 06:31:18.578 [TestNG-tests-3] INFO  testScenarios.TS_02 - $ is selected and displaying on UI
+2025-07-11 06:31:18.578 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_05 passed
+2025-07-11 06:31:24.199 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_06 starting
+2025-07-11 06:31:25.926 [TestNG-tests-1] INFO  testScenarios.TS_02 - £Pound Sterling is visible and clickable
+2025-07-11 06:31:27.659 [TestNG-tests-1] INFO  testScenarios.TS_02 - £ is selected and displaying on UI
+2025-07-11 06:31:27.659 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_06 passed
+2025-07-11 06:31:31.265 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_06 starting
+2025-07-11 06:31:33.005 [TestNG-tests-3] INFO  testScenarios.TS_02 - £Pound Sterling is visible and clickable
+2025-07-11 06:31:34.171 [TestNG-tests-3] INFO  testScenarios.TS_02 - £ is selected and displaying on UI
+2025-07-11 06:31:34.246 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_06 passed
+2025-07-11 06:31:42.690 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_05 starting
+2025-07-11 06:31:42.696 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_07 starting
+2025-07-11 06:31:42.813 [TestNG-tests-1] INFO  testScenarios.TS_02 - My Account option is clickable
+2025-07-11 06:31:44.209 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_07 starting
+2025-07-11 06:31:44.367 [TestNG-tests-3] INFO  testScenarios.TS_02 - My Account option is clickable
+2025-07-11 06:31:44.388 [TestNG-tests-2] INFO  testScenarios.TS_02 - $Dollar is visible and clickable
+2025-07-11 06:31:44.412 [TestNG-tests-1] INFO  testScenarios.TS_02 - Register option is visible and clickable
+2025-07-11 06:31:45.612 [TestNG-tests-3] INFO  testScenarios.TS_02 - Register option is visible and clickable
+2025-07-11 06:31:46.230 [TestNG-tests-1] INFO  testScenarios.TS_02 - User navigated to Registration page
+2025-07-11 06:31:46.231 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_07 passed
+2025-07-11 06:31:46.404 [TestNG-tests-2] INFO  testScenarios.TS_02 - $ is selected and displaying on UI
+2025-07-11 06:31:46.405 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_05 passed
+2025-07-11 06:31:48.302 [TestNG-tests-3] INFO  testScenarios.TS_02 - User navigated to Registration page
+2025-07-11 06:31:48.303 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_07 passed
+2025-07-11 06:31:52.413 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_08 starting
+2025-07-11 06:31:52.769 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_08 starting
+2025-07-11 06:31:53.800 [TestNG-tests-3] INFO  testScenarios.TS_02 - Login option is visible and clickable
+2025-07-11 06:31:53.927 [TestNG-tests-1] INFO  testScenarios.TS_02 - Login option is visible and clickable
+2025-07-11 06:31:55.284 [TestNG-tests-1] INFO  testScenarios.TS_02 - User navigated to login page
+2025-07-11 06:31:55.288 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_08 passed
+2025-07-11 06:31:55.513 [TestNG-tests-3] INFO  testScenarios.TS_02 - User navigated to login page
+2025-07-11 06:31:55.513 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_08 passed
+2025-07-11 06:31:57.762 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_06 starting
+2025-07-11 06:31:59.086 [TestNG-tests-2] INFO  testScenarios.TS_02 - £Pound Sterling is visible and clickable
+2025-07-11 06:32:00.900 [TestNG-tests-2] INFO  testScenarios.TS_02 - £ is selected and displaying on UI
+2025-07-11 06:32:00.902 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_06 passed
+2025-07-11 06:32:03.629 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_09 starting
+2025-07-11 06:32:03.629 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_09 starting
+2025-07-11 06:32:09.944 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_07 starting
+2025-07-11 06:32:09.986 [TestNG-tests-2] INFO  testScenarios.TS_02 - My Account option is clickable
+2025-07-11 06:32:11.310 [TestNG-tests-2] INFO  testScenarios.TS_02 - Register option is visible and clickable
+2025-07-11 06:32:11.815 [TestNG-tests-3] INFO  testScenarios.TS_02 - Wishlist option is clickable
+2025-07-11 06:32:12.141 [TestNG-tests-1] INFO  testScenarios.TS_02 - Wishlist option is clickable
+2025-07-11 06:32:13.161 [TestNG-tests-2] INFO  testScenarios.TS_02 - User navigated to Registration page
+2025-07-11 06:32:13.161 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_07 passed
+2025-07-11 06:32:13.236 [TestNG-tests-3] INFO  testScenarios.TS_02 - User navigated to Wishlist page
+2025-07-11 06:32:13.236 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_09 passed
+2025-07-11 06:32:13.732 [TestNG-tests-1] INFO  testScenarios.TS_02 - User navigated to Wishlist page
+2025-07-11 06:32:13.732 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_09 passed
+2025-07-11 06:32:19.722 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_10 starting
+2025-07-11 06:32:20.162 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_10 starting
+2025-07-11 06:32:23.909 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_08 starting
+2025-07-11 06:32:25.289 [TestNG-tests-2] INFO  testScenarios.TS_02 - Login option is visible and clickable
+2025-07-11 06:32:27.272 [TestNG-tests-3] INFO  testScenarios.TS_02 - Shopping Cart option is clickable
+2025-07-11 06:32:27.350 [TestNG-tests-1] INFO  testScenarios.TS_02 - Shopping Cart option is clickable
+2025-07-11 06:32:27.526 [TestNG-tests-2] INFO  testScenarios.TS_02 - User navigated to login page
+2025-07-11 06:32:27.526 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_08 passed
+2025-07-11 06:32:28.781 [TestNG-tests-3] INFO  testScenarios.TS_02 - User navigated to Shopping Cart page on clicking shopping cart option
+2025-07-11 06:32:28.781 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_10 passed
+2025-07-11 06:32:28.851 [TestNG-tests-1] INFO  testScenarios.TS_02 - User navigated to Shopping Cart page on clicking shopping cart option
+2025-07-11 06:32:28.851 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_10 passed
+2025-07-11 06:32:33.569 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_11 starting
+2025-07-11 06:32:33.964 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_11 starting
+2025-07-11 06:32:37.798 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_09 starting
+2025-07-11 06:32:42.375 [TestNG-tests-1] INFO  testScenarios.TS_02 - Checkout option is clickable
+2025-07-11 06:32:42.513 [TestNG-tests-3] INFO  testScenarios.TS_02 - Checkout option is clickable
+2025-07-11 06:32:43.906 [TestNG-tests-1] INFO  testScenarios.TS_02 - User navigated to Shopping Cart page on clicking checkout option
+2025-07-11 06:32:43.906 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_11 passed
+2025-07-11 06:32:44.467 [TestNG-tests-3] INFO  testScenarios.TS_02 - User navigated to Shopping Cart page on clicking checkout option
+2025-07-11 06:32:44.468 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_11 passed
+2025-07-11 06:32:44.613 [TestNG-tests-2] INFO  testScenarios.TS_02 - Wishlist option is clickable
+2025-07-11 06:32:45.913 [TestNG-tests-2] INFO  testScenarios.TS_02 - User navigated to Wishlist page
+2025-07-11 06:32:45.913 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_09 passed
+2025-07-11 06:32:47.927 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_12 starting
+2025-07-11 06:32:48.020 [TestNG-tests-1] INFO  testScenarios.TS_02 - Page title option is clickable
+2025-07-11 06:32:48.928 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_12 starting
+2025-07-11 06:32:48.996 [TestNG-tests-3] INFO  testScenarios.TS_02 - Page title option is clickable
+2025-07-11 06:32:49.589 [TestNG-tests-1] INFO  testScenarios.TS_02 - User navigated to dashboard page
+2025-07-11 06:32:49.589 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_12 passed
+2025-07-11 06:32:50.550 [TestNG-tests-3] INFO  testScenarios.TS_02 - User navigated to dashboard page
+2025-07-11 06:32:50.551 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_12 passed
+2025-07-11 06:32:56.696 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_10 starting
+2025-07-11 06:32:58.372 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_13 starting
+2025-07-11 06:32:58.438 [TestNG-tests-1] INFO  testScenarios.TS_02 - Items option is clickable
+2025-07-11 06:32:58.712 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_13 starting
+2025-07-11 06:32:58.942 [TestNG-tests-3] INFO  testScenarios.TS_02 - Items option is clickable
+2025-07-11 06:32:59.650 [TestNG-tests-1] INFO  testScenarios.TS_02 - The text matched
+2025-07-11 06:32:59.650 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_13 passed
+2025-07-11 06:33:00.445 [TestNG-tests-3] INFO  testScenarios.TS_02 - The text matched
+2025-07-11 06:33:00.445 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_13 passed
+2025-07-11 06:33:04.179 [TestNG-tests-2] INFO  testScenarios.TS_02 - Shopping Cart option is clickable
+2025-07-11 06:33:05.107 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_14 starting
+2025-07-11 06:33:05.173 [TestNG-tests-1] INFO  testScenarios.TS_02 - Search icon is clickable
+2025-07-11 06:33:06.043 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_14 starting
+2025-07-11 06:33:06.142 [TestNG-tests-3] INFO  testScenarios.TS_02 - Search icon is clickable
+2025-07-11 06:33:06.149 [TestNG-tests-2] INFO  testScenarios.TS_02 - User navigated to Shopping Cart page on clicking shopping cart option
+2025-07-11 06:33:06.149 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_10 passed
+2025-07-11 06:33:06.728 [TestNG-tests-1] INFO  testScenarios.TS_02 - User navigated to search page
+2025-07-11 06:33:06.728 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_14 passed
+2025-07-11 06:33:07.788 [TestNG-tests-3] INFO  testScenarios.TS_02 - User navigated to search page
+2025-07-11 06:33:07.788 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_14 passed
+2025-07-11 06:33:12.940 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_15 starting
+2025-07-11 06:33:13.395 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_15 starting
+2025-07-11 06:33:14.166 [TestNG-tests-3] INFO  testScenarios.TS_02 - 1 option is visible and clickable
+2025-07-11 06:33:14.232 [TestNG-tests-3] INFO  testScenarios.TS_02 - 2 option is visible and clickable
+2025-07-11 06:33:15.402 [TestNG-tests-1] INFO  testScenarios.TS_02 - 1 option is visible and clickable
+2025-07-11 06:33:15.520 [TestNG-tests-1] INFO  testScenarios.TS_02 - 2 option is visible and clickable
+2025-07-11 06:33:15.721 [TestNG-tests-3] INFO  testScenarios.TS_02 - User navigated to pc page
+2025-07-11 06:33:17.479 [TestNG-tests-1] INFO  testScenarios.TS_02 - User navigated to pc page
+2025-07-11 06:33:18.579 [TestNG-tests-3] INFO  testScenarios.TS_02 - User navigated to mac page
+2025-07-11 06:33:18.580 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_15 passed
+2025-07-11 06:33:18.679 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_11 starting
+2025-07-11 06:33:20.427 [TestNG-tests-1] INFO  testScenarios.TS_02 - User navigated to mac page
+2025-07-11 06:33:20.427 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_15 passed
+2025-07-11 06:33:22.566 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_16 starting
+2025-07-11 06:33:22.681 [TestNG-tests-3] INFO  testScenarios.TS_02 - Tablets option is clickable
+2025-07-11 06:33:24.585 [TestNG-tests-3] INFO  testScenarios.TS_02 - User navigated to Tablets page
+2025-07-11 06:33:24.585 [TestNG-tests-3] INFO  testScenarios.TS_02 - TC_16 passed
+2025-07-11 06:33:25.597 [TestNG-tests-2] INFO  testScenarios.TS_02 - Checkout option is clickable
+2025-07-11 06:33:25.824 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_16 starting
+2025-07-11 06:33:25.879 [TestNG-tests-1] INFO  testScenarios.TS_02 - Tablets option is clickable
+2025-07-11 06:33:27.140 [TestNG-tests-2] INFO  testScenarios.TS_02 - User navigated to Shopping Cart page on clicking checkout option
+2025-07-11 06:33:27.140 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_11 passed
+2025-07-11 06:33:27.479 [TestNG-tests-1] INFO  testScenarios.TS_02 - User navigated to Tablets page
+2025-07-11 06:33:27.479 [TestNG-tests-1] INFO  testScenarios.TS_02 - TC_16 passed
+2025-07-11 06:33:36.268 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_12 starting
+2025-07-11 06:33:36.296 [TestNG-tests-2] INFO  testScenarios.TS_02 - Page title option is clickable
+2025-07-11 06:33:37.907 [TestNG-tests-2] INFO  testScenarios.TS_02 - User navigated to dashboard page
+2025-07-11 06:33:37.907 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_12 passed
+2025-07-11 06:33:44.810 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_13 starting
+2025-07-11 06:33:44.839 [TestNG-tests-2] INFO  testScenarios.TS_02 - Items option is clickable
+2025-07-11 06:33:46.129 [TestNG-tests-2] INFO  testScenarios.TS_02 - The text matched
+2025-07-11 06:33:46.129 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_13 passed
+2025-07-11 06:33:52.209 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_14 starting
+2025-07-11 06:33:52.235 [TestNG-tests-2] INFO  testScenarios.TS_02 - Search icon is clickable
+2025-07-11 06:33:53.522 [TestNG-tests-2] INFO  testScenarios.TS_02 - User navigated to search page
+2025-07-11 06:33:53.522 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_14 passed
+2025-07-11 06:33:59.309 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_15 starting
+2025-07-11 06:34:00.638 [TestNG-tests-2] INFO  testScenarios.TS_02 - 1 option is visible and clickable
+2025-07-11 06:34:00.664 [TestNG-tests-2] INFO  testScenarios.TS_02 - 2 option is visible and clickable
+2025-07-11 06:34:02.038 [TestNG-tests-2] INFO  testScenarios.TS_02 - User navigated to pc page
+2025-07-11 06:34:04.829 [TestNG-tests-2] INFO  testScenarios.TS_02 - User navigated to mac page
+2025-07-11 06:34:04.829 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_15 passed
+2025-07-11 06:34:11.643 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_16 starting
+2025-07-11 06:34:11.673 [TestNG-tests-2] INFO  testScenarios.TS_02 - Tablets option is clickable
+2025-07-11 06:34:13.193 [TestNG-tests-2] INFO  testScenarios.TS_02 - User navigated to Tablets page
+2025-07-11 06:34:13.193 [TestNG-tests-2] INFO  testScenarios.TS_02 - TC_16 passed

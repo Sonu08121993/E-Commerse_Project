@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Group Testing">
+    <groups>
+        <run>
+            <include name="master"/>
+            <!--            <exclude name="sanity"/>-->
+            <!--            <include name="sanity"/>-->
+            <!--            <include name="regression"/>-->
+            <!--            <include name="datadriven"/>-->
+        </run>
+    </groups>
+
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"/>
+    </listeners>
+    <test thread-count="5" verbose="2" preserve-order="true" name="Chrome Test">
+        <parameter name="os" value="Windows 11"/>
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="testScenarios.TS_03" >
+            <methods>
+                <include name="TC_19"/>
+            </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

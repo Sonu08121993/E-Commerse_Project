@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e11d662d-31c3-46fa-bbc0-6d380d562dc5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CrossBrowserTesting_Suite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grid-Docker.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GroupTesting_Suite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master_Suite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_AboutUsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_AffiliatePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_BrandsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_CheckoutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_ContactUsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_DeliveryInformationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_DesktopsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_ForgotPasswordPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_GiftCertificatesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_ItemDetailsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_MyAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_NewsLetterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_OrderHistoryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_PrivacyPolicyPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_ProductDetailsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_RegistrationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_ReturnsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_ShoppingCartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_SiteMapPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_SpecialsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_TabletsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_TermsAndConditionsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/FrontEnd_WishListPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testBase/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testScenarios/TS_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testScenarios/TS_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testScenarios/TS_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testScenarios/TS_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testScenarios/TS_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testScenarios/TS_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testScenarios/TS_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/AllureReportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/DataProviders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ExcelUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ExtentReportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/data.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testData/DataDriven.xlsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2tfAjbVVrp7KqwUbzyFaXTSr9TE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Maven.E-Commerse_Project [clean].executor": "Run",
+    "Maven.E-Commerse_Project [install].executor": "Run",
+    "Maven.E-Commerse_Project [test].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.C:/Users/sonua/eclipse-workspace/E-Commerse_Project/CrossBrowserTesting_Suite.xml.executor": "Run",
+    "TestNG.C:/Users/sonua/eclipse-workspace/E-Commerse_Project/Grid-Docker.xml.executor": "Run",
+    "TestNG.C:/Users/sonua/eclipse-workspace/E-Commerse_Project/GroupTesting_Suite.xml.executor": "Run",
+    "TestNG.C:/Users/sonua/eclipse-workspace/E-Commerse_Project/Master_Suite.xml.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sonua/eclipse-workspace/E-Commerse_Project",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sonua\eclipse-workspace\E-Commerse_Project" />
+      <recent name="C:\Users\sonua\eclipse-workspace\E-Commerse_Project\testData" />
+      <recent name="C:\Users\sonua\eclipse-workspace\E-Commerse_Project\src\test\resources" />
+      <recent name="C:\Users\sonua\eclipse-workspace\E-Commerse_Project\src\test\java\utilities" />
+      <recent name="C:\Users\sonua\eclipse-workspace\E-Commerse_Project\src\test\java\testScenarios" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/sonua/eclipse-workspace/E-Commerse_Project/CrossBrowserTesting_Suite.xml">
+    <configuration name="C:/Users/sonua/eclipse-workspace/E-Commerse_Project/CrossBrowserTesting_Suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="E-Commerse_Project" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/CrossBrowserTesting_Suite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/sonua/eclipse-workspace/E-Commerse_Project/Grid-Docker.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="E-Commerse_Project" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Grid-Docker.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/sonua/eclipse-workspace/E-Commerse_Project/GroupTesting_Suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="E-Commerse_Project" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/GroupTesting_Suite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/sonua/eclipse-workspace/E-Commerse_Project/Master_Suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="E-Commerse_Project" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Master_Suite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/sonua/eclipse-workspace/E-Commerse_Project/CrossBrowserTesting_Suite.xml" />
+        <item itemvalue="TestNG.C:/Users/sonua/eclipse-workspace/E-Commerse_Project/Grid-Docker.xml" />
+        <item itemvalue="TestNG.C:/Users/sonua/eclipse-workspace/E-Commerse_Project/GroupTesting_Suite.xml" />
+        <item itemvalue="TestNG.C:/Users/sonua/eclipse-workspace/E-Commerse_Project/Master_Suite.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e11d662d-31c3-46fa-bbc0-6d380d562dc5" name="Changes" comment="" />
+      <created>1740732891085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740732891085</updated>
+    </task>
+    <servers />
+  </component>
+</project>

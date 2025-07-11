@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e11d662d-31c3-46fa-bbc0-6d380d562dc5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/logs/Test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/Test-Report - 2025.07.11.06.08.27.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/Test-Report - 2025.07.11.06.30.49.html" beforeDir="false" />
-    </list>
+    <list default="true" id="e11d662d-31c3-46fa-bbc0-6d380d562dc5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
